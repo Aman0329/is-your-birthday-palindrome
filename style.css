@@ -1,0 +1,42 @@
+body{
+    height: 100vh;
+    background-image: url("bc.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    width: 100vw;
+    text-align: center;
+    overflow: hidden;
+}
+h1{
+    font-weight: bold;
+    color: orange;
+    margin-right: 7%;
+    font-size: 2.5em;
+    
+}
+h3{
+    color: white;
+    margin-right: 5%;
+}
+#input{
+    width: 10%;
+    height: 3%;
+    margin-top: 2%;
+
+}
+#btn{
+    border: 1px solid orange;
+    border-radius: 10px;
+    width: 5%;
+    height: 4%;
+}
+#result{
+    margin-top: 5%;
+    margin-right: 4%;
+    font-size: 1.5em;
+    color: orange;
+    font-weight: bolder;
+}
+  
